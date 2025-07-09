@@ -40,13 +40,13 @@ Contém os métodos principais do sistema:
 
 ## 🗂️ Estrutura do Projeto
 
-```sistema-votacao-java/
+sistema-votacao-java/
 │
 ├── README.md
 ├── Votacao2021.txt ← Gerado durante execução
 └── src/
 ├── Votacao.java
-└── Votacao2021.java```
+└── Votacao2021.java
 
 
 ## 💻 Tecnologias Utilizadas
@@ -63,12 +63,12 @@ Contém os métodos principais do sistema:
 2. Execute a classe `Votacao2021.java`
 3. Navegue pelo menu para interagir com o sistema:
 
-```SISTEMA DE VOTAÇÃO
+SISTEMA DE VOTAÇÃO
 1 – Carregar Seção/Número Eleitor
 2 – Classificar por Seção
 3 – Gravar Registros
 4 – Mostrar Indicadores
-9 – Finalizar```
+9 – Finalizar
 
 
 ## 🏷️ Tags

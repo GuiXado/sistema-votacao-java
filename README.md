@@ -40,3 +40,38 @@ Contém os métodos principais do sistema:
 
 ## 🗂️ Estrutura do Projeto
 
+```sistema-votacao-java/
+│
+├── README.md
+├── Votacao2021.txt ← Gerado durante execução
+└── src/
+├── Votacao.java
+└── Votacao2021.java```
+
+
+## 💻 Tecnologias Utilizadas
+
+- Java
+- Orientação a objetos
+- Manipulação de arquivos `.txt`
+- Métodos de ordenação e geração aleatória
+- IDE: Eclipse, IntelliJ ou NetBeans
+
+## ▶️ Como Executar
+
+1. Compile os arquivos da pasta `/src`
+2. Execute a classe `Votacao2021.java`
+3. Navegue pelo menu para interagir com o sistema:
+
+```SISTEMA DE VOTAÇÃO
+1 – Carregar Seção/Número Eleitor
+2 – Classificar por Seção
+3 – Gravar Registros
+4 – Mostrar Indicadores
+9 – Finalizar```
+
+
+## 🏷️ Tags
+
+`java` `votação` `arquivo-txt` `poo` `aleatório` `estatísticas` `ADS`
+
